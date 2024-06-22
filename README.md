@@ -1,6 +1,7 @@
 # Multilingual Assistant
 
 1. Used python to create program
+2. installed the gemini libs
 
 # How to run?
 
