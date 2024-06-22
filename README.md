@@ -1,5 +1,7 @@
 # Multilingual Assistant
 
+1. Used python to create program
+
 # How to run?
 
 ### STEPS:
