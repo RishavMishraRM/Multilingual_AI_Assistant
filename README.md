@@ -2,6 +2,7 @@
 
 1. Used python to create program
 2. installed the gemini libs
+3. used the gemini API key
 
 # How to run?
 
