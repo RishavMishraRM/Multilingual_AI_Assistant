@@ -3,7 +3,7 @@
 1. Used python to create program
 2. installed the gemini libs
 3. used the gemini API key
-4.
+4. streamlit to execute frontend
 
 # How to run?
 
