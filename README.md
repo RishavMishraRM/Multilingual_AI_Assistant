@@ -4,6 +4,7 @@
 2. installed the gemini libs
 3. used the gemini API key
 4. streamlit to execute frontend
+5. Google
 
 # How to run?
 
